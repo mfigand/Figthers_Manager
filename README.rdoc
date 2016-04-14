@@ -1,0 +1,11 @@
+== README
+
+The technologies i used in this app are:
+
+* Angular
+
+* JavaScript
+
+* Jquery
+
+* Bootstrap

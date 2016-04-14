@@ -1,0 +1,11 @@
+== README
+
+This App is a Concert Handler. It allows you Create, Update and Manage Concerts.
+
+Technologies used:
+
+* Ruby on rails with Ruby version 2.2.3p173
+
+* Front with Bulma
+
+* DB sqlite
